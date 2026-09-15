@@ -14,3 +14,9 @@ For the symmetric quartic double well potential, the lower energy levels form ne
 The full numerical analysis, including the energy spectra and eigenstate plots are in `TISE_Numerical_Solution.ipynb`.
 ## Reusable Solver
 The numerical method used in the notebook is implemented as a reusable function in `TISE_solver.py`. 
+
+## Requirements
+
+Install the required Python packages with:
+
+pip install -r requirements.txt
